@@ -5,6 +5,7 @@
 > init print flag
 >> init temp0 and temp1
 >- set anchor
+paste data in the line below
 !
 
 +[-<+]-
